@@ -11,7 +11,7 @@ public class Vendeur extends Employé {
 	
 	private int comission;
 
-	Vendeur(int c) {
+	public Vendeur(int c) {
 		super();
 		this.comission = c;
 	}
