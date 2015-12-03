@@ -14,7 +14,7 @@ public class Interpreter {
 	protected Stack<String> history = new Stack<String>();
 	protected Hashtable<String,Command> set = new Hashtable<String,Command>();
 	
-	
+	/*
 	public void session ()
 	{
 		while(true)
@@ -28,7 +28,7 @@ public class Interpreter {
 				}
 		}
 	}
-	
+	*/
 	protected Command getNewCommand ( ) 
 	{
 	  String s = System.in.toString() ;

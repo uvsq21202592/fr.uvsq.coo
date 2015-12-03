@@ -9,7 +9,7 @@ package fr.uvsq.coo.ex3_9;
  */
 public class Calculator extends Interpreter {
 	
-	public Calculator() {
+	/*public Calculator() {
 		set.put("quit" , new Quit () ) ;
 		set.put("undo" , new Undo(history) ) ;
 		set.put( "+" , new Plus(history) ) ;
@@ -18,6 +18,7 @@ public class Calculator extends Interpreter {
 		set.put( "/" , new Division(history) ) ;
 		//set.put("accept" ,new Accept(history) ) ;
 		}
+		*/
 	
 	
 
